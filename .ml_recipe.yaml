@@ -1,5 +1,5 @@
 command:
-  - jupiter nbconvert  --to html --output /output/mnist.html --execute /code/mnist.ipynb --ExecutePreprocessor.allow_errors=True --ExecutePreprocessor.timeout=-1
+  - jupyter nbconvert  --to html --output /output/mnist.html --execute /code/mnist.ipynb --ExecutePreprocessor.allow_errors=True --ExecutePreprocessor.timeout=-1
 
 org: missinglinkdemo
 project: 5647386479165440
