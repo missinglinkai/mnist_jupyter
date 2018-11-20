@@ -1,4 +1,4 @@
 missinglink
 keras
 tensorflow
-jupiter
+jupyter
