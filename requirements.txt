@@ -2,4 +2,3 @@ missinglink
 keras
 tensorflow
 jupyter
-prompt-toolkit==1.0.15
